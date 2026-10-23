@@ -13,6 +13,7 @@ UPDATE EMITENTE SET REV_FANTASIA = 'ALCOM INFOSTORE';
 UPDATE EMITENTE SET REV_CONTATO = '(31)99642-0450 | (31)99701-1558 | (31)97167-9459';
 UPDATE NFCE_CONFIGURACAO SET VALOR_OBRIGA_CPF_CNPJ = 9999.99;
 update CONTADOR set EMAIL = 'contabilidadegomes@yahoo.com.br;ecgo1955contabilidade@yahoo.com' where EMAIL = 'contabilidadegomes@yahoo.com.br';
+update CONTADOR set EMAIL = 'contabilvidigalfiscal@gmail.com' where EMAIL = 'escritoriocontabilvidigal@yahoo.com.br';
 
 -- UPDATE NCMS EXPIRADOS
 
